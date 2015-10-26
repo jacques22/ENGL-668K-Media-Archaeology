@@ -2,49 +2,62 @@ Make some additional notes below about each machine as you go: What’s the most
 Can this computer and its software do anything that your current computer cannot? 
 
 ==================================================================================================================
-KAYPRO 4
+KAYPRO 4 [completed]
 
 What year was it made? 
+     
      1984. Hence the nickname Kaypro 4 '84. 
 
 What operating system does it run? 
-     CP/M + an appication bundle which included Wordstar, dBase II, MicroPlan, Microsoft Basic, S-Basic, SuperCalc, and C-Basic. 
+     
+     CP/M + an appication bundle which included Wordstar, dBase II, MicroPlan, 
+     Microsoft Basic, S-Basic, SuperCalc, and C-Basic. 
 
 How much did it cost (then and now, adjusted for inflation)? 
-     $1800 (plus an additional $700 for the printer). According to an inflation rate of 129%, a $1800 Kaypro in 1984 would cost $4,122.24 in current USD.  
+     The Kaypro 4 went for $1800 (plus an additional $700 for the printer). According to an inflation rate of 
+     129%, a $1800 Kaypro in 1984 would cost $4,122.24 in current USD.  
 
 How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
      
-     Finding one of these is not terribly difficult or expensive (at least today): 
-     I found a listing on ebay for for the computer and printer at the cost of $299.00
+     Finding one of these is not terribly difficult or expensive: 
+     I found a listing on ebay for the computer and printer at the cost of $299.00
 
 In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
      
-     The KAYPRO series in the early 1980s were known for being "rugged," portable (26 pounds) and coming with a software bundle 
-     that was much more impressive than other personal computers on the market. It had, at the time, in contrast to earlier models, 
-     impressive graphic capacity. It had a built in monitor with a shrp display.  The brightness, although only having two levels, 
-     could be adjusted, but this was (I think) available in earlier models.  It inaugarated the blinking square prompt.   
+     The KAYPRO series in the early 1980s were known for being "rugged," portable (26 pounds) and for coming with 
+     an impressive software bundle compared to other personal computers on the market. It also had, at the time, 
+     in contrast to earlier models, impressive graphic capacity. It had a built in monitor with a sharp display.  
+     The brightness, although only having two levels, could be adjusted, but this was (I think) available in earlier models.  
+     It inaugarated the blinking square prompt (which the movie "Ghost" is indebted to).   
      Unlike the Kapro II, the IV and 4 used double-sided disk drives.  
 
 Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, 
 experimenting with some commands based on the keyboard template. (You don’t need to save your document.)
      
-     I didn't have a problem turning it on. Actually, I was amazed at how quickly it was just ready to go.  There was none of the 
-     wait time necessary for loading images on the desktop (or whatever it is that takes my PC so long to warm up). 
-     Once I did turn it on, it was helpful that the monitor asked me to insert a disc (although it took me a 
-     ridcilous amount of time to realize that there is an actual Wordstar disc). It seemed that once I inserted a disc, the machine was
-     loyal to it, and none other.  I had to turn it off, take it out, and start over.  I did realize that I could command a disc drive switch, 
-     but I really didn't want to mess with that (truth be told, I tried and failed). Once I inserted the correct disc, I was confronted with the ominous "AO>" 
-     Apart from unsuccessfully trying a series of "commands," which brought me nothing but regurgitations of my command with a question mark, 
-     or just question marks, I was making no progress.  I tried to find a Kaypro manual online.  I know that a few others has success doing so.  
-     I, however, did not.  What I *did* find, was a youtube video wherein the person was just showing off his Kaypro.  I enlarged the screen and 
-     watched what he was typing.  That's when I discovered "dir."  The holy grail.  And then so much information flood the screen that I had a small heart attack.
-     This couldn't possibly have been considered a computer for common folk.  You have to know *exactly* what's up to get 
-     anywhere.  There is no dinking around to see what happens.  Such play leads to misery and question marks.  
+     I didn't have a problem turning it on. Actually, I was amazed at how quickly it was just ready to go.  
+     There was none of the wait time that the computers of my young-adult years required. After learning more about the
+     Amiga, my guess is that this is the difference between having an operating system with embedded software and relying
+     almost entirely on external discs. The Kaypro's version of the Amiga's multi-tasking--according to the way I was fumbling 
+     around with the Kaypro--is turning it off, ejecting a disc, turning it back on, and inserting a different disc. 
+     Once a disc is inserted, it seems that this machine is loyal to no other, and must have its. I did realize that 
+     I could command a disc drive switch, but I really didn't want to mess with that (truth be told, I tried once and failed).
+     Because I was still expecting software to actually be embedded in the computer, it took me a ridcilous amount of time 
+     to realize that to use Wordstar, I had to insert the right disc (blush). Once I inserted the correct disc, 
+     I was confronted with the ominous "AO>". Apart from unsuccessfully trying a series of "commands," which brought me 
+     nothing but regurgitations of my command with a question mark, or just question marks, I was making no progress.  
+     I tried to find a Kaypro manual online.  I know that a few others had success doing so. I, however, could not find one.  
+     What I *did* find, was a youtube video wherein the person was just showing off his Kaypro.  I enlarged the screen and 
+     watched what he was typing.  That's when I discovered "dir."  The holy grail (I think?...well, it felt
+     like the holy grail). And then so much information flooded the screen that I had a small heart attack. This couldn't 
+     possibly have been considered a computer for common folks.  You have to know *exactly* what's up to get 
+     anywhere.  There is no 'dinking' around to see what happens.  Such play leads to misery and question marks. 
+     
+     This user experience was horrible.  I would really really really like to see a live demonstration of the Kaypro because
+     I really want to like it.  
      
 
 ===================================================================================================================
-APPLE IIe
+APPLE IIe [completed]
 
 What year was it made? 
     
@@ -61,24 +74,28 @@ How much did it cost (then and now, adjusted for inflation)? How hard is it to f
 
 In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
    
-   One of the most interesting features of the Apple IIe was its keyboard. Certain models came with a numeric keypad, 
+   One interesting feature (at least to me) of the Apple IIe was its keyboard. Certain models came with a numeric keypad, 
    and keyboards came with variations depending on the geographic region of its consumers. The apple series had an impressive 
-   memory size (up to 48K of RAM) and came with innovative programs such as VisiCalc (a spreadsheet program) at reasonable prices. 
+   memory size (up to 48K of RAM) and came with innovative programs such as VisiCalc (a spreadsheet program) at reasonable prices.
+   These specs were HUGE for commercial computer use.  
 
 Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. 
 (If you can beat one of my high scores on Sea Dragon you’ll get a prize. Really!)
    
    This was a gratifying experience after the Kaypro.  Although the Kaypro looks super cool, the drastic degree of foreignness was
-   extremely frustrating. It was interesting to see a tutorial (on the Apple) that was not as interactive as more contemporary versions.  
-   There's a different level of drugery to it.  You have to be committed. Half the time I was struggling my way through basic functions 
-   to get myself through the tutorial, in ways that were more elementary than what the tutorial was addressing.    
-   Haha.  Hilarious.  The sound is fun, but definitely makes me much more appreciative of the speakers on my laptop!!! I 
-   will think twice before complaining. I think my experience of Sea Dragon was tarnished by being worn out by the Kaypro.  
-   I hope to return to it with a fresh regard.  
+   extremely frustrating. It was interesting to see a tutorial (on the Apple) that was less interactive than current tutorials. 
+   Actually, I was happy to do without cheezy promo videos and unnecessarily enthusiastic playful interupptions. But,   
+   there's a different level of drugery to it. You have to be committed. Half the time I was struggling my way through basic functions 
+   required to get myself through the tutorial: I needed a tutorial for the tutorial.      
+   
+   The sound is fun, but it definitely helps me feel more appreciative of the speakers on my laptop!!! I 
+   will think twice before complaining about the lack of bass. My engagement of Sea Dragon was brief and 
+   uninspired.  It was tarnished by being worn out by the Kaypro.  I hope to return to it with a fresh regard
+   (and with something obstructing my view of the Kaypro).  
    
 
 ====================================================================================================================
-MACINTOSH SE
+MACINTOSH SE [completed]
 
 What year was it made? 
      
@@ -102,30 +119,37 @@ How hard is it to find one on the secondhand market (check eBay and Craig’s Li
 
 In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
      
-     It was the first low-end, compact Mac with an expansion slot. It had an internal drive bay for a hard disk, 
-     but was also able to accomodate a floppy.  That being said, it's considerable storage capicity made external drives less important than it predecessors.
-     It was one of the first Macs to include an Apple Desktop Bus (ADB), which permitted 16 input devices. It also came with the
-     "Apple IIGS" --graphics and sound-- which enhanced multimedia capabilities.  According to Wikipedia, 
-     it had "state-of-the-art sound and music synthesis."  Super exciting, in my opinion.  
-     These are absolute priorities, in my opinion!
+     It was the first low-end, compact Mac with an expansion slot.  It had an internal drive 
+     bay for a hard disk, but was also able to accomodate a floppy (I remember loving this feature at my elementary school 
+     because while all of my classmates were using brand new discs, my parents gave me a box of floppy discs they picked up 
+     from a thrift store. This slot allowed me to slyly use the floppies). That being said, it's considerable storage capicity 
+     made external drives less important than it predecessors. It was also one of the first Macs to include an Apple Desktop 
+     Bus (ADB), which permitted 16 input devices. It also came with the "Apple IIGS" --graphics and sound-- which enhanced 
+     multimedia capabilities.  According to Wikipedia, it had "state-of-the-art sound and music synthesis."  
+     Super exciting, in my opinion. These are absolute priorities, in my opinion! (Which, I know, completely contradicts
+     my minimalist leanings when it comes to gaming).  
 
 Turn it on (you must figure out how). Read some of Deena Larsen’s Marble Springs. Quit Marble Springs. 
 What else is on this Mac?
      
-     I found this easy to turn on and operate. I suspect that this was the computer I used at my elementary school, because 
-     it seems strangely familiar to me.  That being said, the exhorbitant price tag makes me doubtful of this.  Mind you,
-     I was using it a few years after it was released...so, there's that.  
-     What I find most impressive about this computer, is that it both reduces your need for "external plastic" (my own term), 
-     and caters to your desires to see it as a conduit to other devices (and forms of media). One of the benefits of having a 
-     personal computer is not having to carry around external storage devices (though, of course, smart people back everything up...
-     but now we can throw it to the clouds!! Brilliant language use) . 
-     As far as what else is on this Mac, I didn't find it, but apparently there is an "Easter Egg" --4 pics of the engineering team-- 
-     hidden somewhere on these models.  Right? Figuring out how to find such a thing is far beyond me (I didn't even know what an "Easter Egg" was before googling it). 
+     I found this easy to turn on and operate. Although it took me a while to realize it, this was the first 
+     computer I ever used. I can barely recall it, but there was a strangely familiarity.  
+     That being said, the exhorbitant price tag makes me doubtful myself.  Mind you,I was using it a few years after 
+     it was released...so, there's that.  
      
-     NOTE TO SELF: GO BACK AND USE AGAIN.  
+     What I find most impressive about this computer, is that it both reduces your need for "external plastic" (my own term), 
+     and caters to your desires to see the computer as a conduit to other devices (and forms of media). 
+     One of the benefits of having a personal computer is not having to carry around external storage devices 
+     (though, of course, smart people back everything up...but now we can throw it to the clouds!! Brilliant language use) . 
+     
+     As far as what else is on this Mac, I didn't find it, but apparently there is an "Easter Egg" --4 pics of the engineering team-- 
+     hidden somewhere on these models.  Right? Figuring out how to find such a thing is far beyond me 
+     (I didn't even know what was meant by an "Easter Egg" until I googled it). 
+     
 
 ===================================================================================================================
 VECTREX [completed] 
+
 (note: I have a friend with one of these, and he let me borrow it.  I hope that's okay.  It was easier to have access to
 it at home.  Although the kids were very upset when I returned it!).
 
